@@ -12,8 +12,8 @@ function Navbar() {
         <span className="logo-icon">☕</span>
 
         <span>
-          KIYOMBE
-          <small>MOUNTAIN COFFEE</small>
+          KIYOMBE MOUNTAIN COFFEE
+          
         </span>
       </Link>
 
