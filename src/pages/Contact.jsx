@@ -63,14 +63,7 @@ function Contact() {
               ✉️ info@kiyombecoffee.com
             </p>
 
-            <p>
-              📷 Instagram
-            </p>
-
-            <p>
-              📘 Facebook
-            </p>
-
+           
           </div>
 
 
