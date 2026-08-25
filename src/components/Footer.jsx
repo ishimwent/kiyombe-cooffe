@@ -31,7 +31,7 @@ function Footer() {
         <Link to="/contact">Contact</Link>
         <Link to="/quote">Request a Quote</Link>
 
-        <p>📱 +250 XXX XXX XXX</p>
+        <p>📱 +250 788 538 792</p>
         <p>✉️ info@kiyombecoffee.com</p>
       </div>
 
