@@ -1,4 +1,4 @@
-import farmerImage from "../assets/PK.PNG";
+import farmerImage from "../assets/images.jpeg";
 
 function Farmers() {
   return (
