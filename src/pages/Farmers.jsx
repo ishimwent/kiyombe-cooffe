@@ -23,7 +23,7 @@ function Farmers() {
       <section className="section two-column">
 
         <img
-          src="https://images.unsplash.com/photo-1511081765374-4e1d4a5b1c2c?auto=format&fit=crop&w=1000&q=80"
+          src="src/assets/images.jpeg"
           alt="Coffee farmer"
         />
 
