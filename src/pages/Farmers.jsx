@@ -1,9 +1,9 @@
+import farmerImage from "../assets/PK.PNG";
+
 function Farmers() {
   return (
     <main>
-
       <section className="page-header">
-
         <p className="eyebrow">
           OUR FARMERS
         </p>
@@ -16,15 +16,13 @@ function Farmers() {
         <p>
           Great coffee begins with dedicated farmers.
         </p>
-
       </section>
-
 
       <section className="section two-column">
 
         <img
-          src="src/assets/PK.PNG"
-          alt="Coffee farmer"
+          src={farmerImage}
+          alt="Kiyombe Mountain Coffee farmer"
         />
 
         <div>
@@ -54,11 +52,9 @@ function Farmers() {
 
       </section>
 
-
       <section className="values-section">
 
         <div className="section-heading">
-
           <p className="eyebrow">
             OUR COMMITMENT
           </p>
@@ -66,9 +62,7 @@ function Farmers() {
           <h2>
             Supporting the Coffee Value Chain
           </h2>
-
         </div>
-
 
         <div className="values-grid">
 
